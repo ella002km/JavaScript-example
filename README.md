@@ -1,1 +1,1 @@
-# JavaScript-example
+# React-example
